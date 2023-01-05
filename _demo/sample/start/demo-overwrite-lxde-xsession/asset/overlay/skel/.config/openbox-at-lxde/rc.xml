@@ -2733,6 +2733,11 @@ sudo cp clicksnap /usr/local/bin/clicksnap
 	<!--
 	<file>/var/lib/openbox/debian-menu.xml</file>
 	//-->
+	<!--
+		## Help
+
+		* http://openbox.org/wiki/Help:Menus/Debian-menu
+	//-->
 	<file>~/.config/openbox-at-lxde/menu.xml</file>
 	<!--
 	<file>menu.xml</file>
