@@ -1,0 +1,5 @@
+@lxpanel --profile LXDE
+@openbox-lxde-up-desktop-background
+#@pcmanfm --desktop --profile LXDE
+@plank
+@xscreensaver -no-splash
